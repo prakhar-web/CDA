@@ -1,2 +1,2 @@
-# CDA
-Checks for collision between two sprite objects
+# p5.play-boilerplate
+Boiler plate for p5.play
